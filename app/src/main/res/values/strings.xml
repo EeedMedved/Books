@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="btn_save_author_msg">Сохранить автора</string>
+    <string name="btn_save_book_msg">Сохранить книгу</string>
+</resources>
